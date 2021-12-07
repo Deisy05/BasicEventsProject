@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 /**
- * This class is used for show use lister and events
+ * This class is used to show the use of lister and events
  * @autor Deisy C. Melo 202041790 deisy.melo@correounivalle.edu.co
  * @version 1.1.0 date 1/12/2021
  */
